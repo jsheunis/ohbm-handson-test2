@@ -7,6 +7,16 @@ Hi this is the code and data for blabla lorum ipsum ....
 1. Download stuff
 2. Install bla bla
 
+First create a virtual environment, with virtualenv:
+
+```
+pip install virtualenv #install the package
+virtualenv --python=python3 mypythonenv #create a new virtual environment
+source mypythonenv/bin/activate #activate the virtual environment
+```
+
+Now install your packages with pip:
+
 ```
 pip install -r requi,bljhbhkj.
 ```
