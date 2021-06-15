@@ -6,4 +6,16 @@ Hi this is the code and data for blabla lorum ipsum ....
 
 1. Download stuff
 2. Install bla bla
-3. Run the code
+
+```
+pip install -r requi,bljhbhkj.
+```
+ Also install brainstat:
+ 
+ ```
+ git clone
+ python setup.py
+ asdcasdcasdcasdcads
+ ```
+
+4. Run the code
